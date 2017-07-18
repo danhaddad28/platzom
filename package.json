@@ -1,0 +1,28 @@
+{
+  "name": "platzom",
+  "version": "0.1.0",
+  "description": "Traductor de idioma platzom",
+  "main": "dist/src/platzom.js",
+  "scripts": {
+    "build": "babel src/platzom.js -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danmousai/platzom.git"
+  },
+  "keywords": [
+    "platzom",
+    "platzi",
+    "fundamentos",
+    "javascript"
+  ],
+  "author": "Dan Haddad (http://www.mousai.io)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/danmousai/platzom/issues"
+  },
+  "homepage": "https://github.com/danmousai/platzom#readme",
+  "devDependencies": {
+    "babel-cli": "^6.24.1"
+  }
+}
